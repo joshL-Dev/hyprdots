@@ -8,8 +8,11 @@ gamemode
 mangohud
 cava
 #spotify
-spicetify-cli
+#spicetify-cli
 #libinput-gestures
 #gestures
 brave-bin
 lutris
+wine
+wine-mono
+wine-gecko
