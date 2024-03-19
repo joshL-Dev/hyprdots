@@ -1,4 +1,4 @@
-#neovim
+neovim
 #emote
 #trash-cli-git
 #downgrade
@@ -7,7 +7,7 @@ gamemode
 #gamescope
 mangohud
 cava
-spotify
+#spotify
 spicetify-cli
 #libinput-gestures
 #gestures
